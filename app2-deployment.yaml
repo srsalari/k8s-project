@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: kubernetes-bootcamp
   labels:
-    app: nginx
+    app: kubernetes-bootcampc
 spec:
   replicas: 3
   selector:
